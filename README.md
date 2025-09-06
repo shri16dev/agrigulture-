@@ -1,4 +1,4 @@
-🌾 Analyzing Agricultural Productivity and Resource Use: An Exploratory Study of Indian Districts
+## 🌾 Analyzing Agricultural Productivity and Resource Use: An Exploratory Study of Indian Districts ##
 
 This repository contains the dataset analysis, machine learning models, and research paper for a project on district-level rice yield trends in India (1966–2000). The study combines Exploratory Data Analysis (EDA) and Machine Learning (ML) to understand agricultural productivity, spatial disparities, and policy implications.
 
