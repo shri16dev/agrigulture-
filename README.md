@@ -72,3 +72,9 @@ The research highlights spatial disparities in productivity, the impact of the G
 ---
 
 ## 📂 Repository Structure  
+├── data/ # Dataset (if included; else provide link)
+├── notebooks/ # Jupyter notebooks for EDA & ML
+├── src/ # Source code (data preprocessing, modeling)
+├── paper/ # Research paper (PDF)
+├── requirements.txt # Python dependencies
+└── README.md # Project documentation
